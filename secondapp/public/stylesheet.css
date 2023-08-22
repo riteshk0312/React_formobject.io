@@ -1,0 +1,15 @@
+.thediv{
+    float:left;
+    width:50%;
+    height:100%;
+    background-color: aqua;
+}
+.mydiv{
+    float: right;
+    width:50%;
+    height:100%;
+    background-color: rgb(247, 185, 185);
+}
+.mdiv{
+    color: aqua;
+}
